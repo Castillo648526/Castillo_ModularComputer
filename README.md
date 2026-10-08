@@ -12,3 +12,5 @@ The two numbers entered by the user, num1 and num2, were passed as arguments to 
 The returned value was stored in the result variable and then displayed to the user.
 5) Why is it better to divide the calculator program into functions instead of writing everything in one long block of code?
 Using functions makes the program easier to read, understand, test, and maintain. Each function has one specific task, so the code is more organized and can be reused when needed. When there are errors in code, you can find the line easily.
+
+
